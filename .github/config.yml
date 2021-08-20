@@ -6,3 +6,12 @@ newPRWelcomeComment: >
 
 firstPRMergeComment: >
   Congrats on merging your first pull request! We here at Baraja are proud of you!
+
+# Comment to be posted to on PRs that don't update documentation
+updateDocsComment: >
+  Thanks for opening this pull request! The maintainers of this repository would appreciate it if you would update some of our documentation based on your changes.
+
+# Terms that if found in the title of a PR will prevent the bot from commenting on it
+updateDocsWhiteList:
+  - bug
+  - chore
