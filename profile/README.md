@@ -6,7 +6,7 @@ The entire ecosystem consists of several independent areas that together form a 
 
 - [Ecommerce standard](https://github.com/baraja-core/ecommerce-standard)
 - [CMS](https://github.com/baraja-core/cms)
-- [Structured REST API](https://github.com/baraja-core/structured-api)
+- [Structured REST API](https://github.com/baraja-core/structured-api) (with [automatically updated documentation](https://github.com/baraja-core/structured-api-doc))
 - [Smart Composer package manager and installer](https://github.com/baraja-core/package-manager)
 - [Full e-shop system](https://github.com/baraja-core/shop) separated to [Product](https://github.com/baraja-core/shop-product), [Cart](https://github.com/baraja-core/shop-cart), [Order](https://github.com/baraja-core/shop-order) and more...
 - Common PHP utils and bridges
