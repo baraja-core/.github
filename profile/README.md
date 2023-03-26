@@ -1,6 +1,8 @@
 ## Baraja core packages
 
-TThis GitHub organization is responsible for the development and maintenance of the core Baraja systems.
+BRJ core GitHub organization is responsible for the development and maintenance of the core Baraja systems.
+
+The original implementation was coded in PHP 8.0 and is still fully supported. For new projects, however, we recommend using React and Node.js, for which a complete rewrite of all packages is gradually being developed. The main advantages of JavaScript are its easy portability, tremendous development speed, the ability to involve junior developers, and the strict TypeScript environment.
 
 The entire ecosystem consists of several independent areas that together form a modular core.
 
